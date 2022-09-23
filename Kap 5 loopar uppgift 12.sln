@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kap 5 loopar uppgift 12", "Kap 5 loopar uppgift 12\Kap 5 loopar uppgift 12.pyproj", "{F6FA30C9-33C3-494A-9F50-1952AD11A6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FA30C9-33C3-494A-9F50-1952AD11A6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FA30C9-33C3-494A-9F50-1952AD11A6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD7584D-F015-4B38-A03D-D8E751ED515D}
+	EndGlobalSection
+EndGlobal
